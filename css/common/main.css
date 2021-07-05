@@ -14,7 +14,7 @@ body {
 
 .wrap-right {
     height: 100%;
-    width: calc(100% - 221px);
+    width: calc(100% - 180px);
 }
 
 @font-face {
