@@ -1,0 +1,10 @@
+.header {
+    height: 48px;
+    background-color: aquamarine;
+    display: flex;
+    align-items: center;
+}
+
+.header-left {}
+
+.header-right {}

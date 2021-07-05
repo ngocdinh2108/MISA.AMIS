@@ -1,0 +1,38 @@
+body {
+    height: 100vh;
+    font-family: 'Notosans-Regular';
+    font-size: 13px;
+    margin: 0;
+    color: #ffffff;
+}
+
+.wrap-body {
+    display: flex;
+    height: 100vh;
+    width: 100%;
+}
+
+.wrap-right {
+    height: 100%;
+    width: calc(100% - 221px);
+}
+
+@font-face {
+    font-family: 'Notosans-Bold';
+    src: url('../../content/fonts/notosans-bold.3ede5aff.woff2') format('opentype');
+}
+
+@font-face {
+    font-family: 'Notosans-Italic';
+    src: url('../../content/fonts/notosans-italic.1c1aaac9.woff2') format('opentype');
+}
+
+@font-face {
+    font-family: 'Notosans-Regular';
+    src: url('../../content/fonts/notosans-regular.2cb88a13.woff2') format('opentype');
+}
+
+@font-face {
+    font-family: 'Notosans-Semibold';
+    src: url('../../content/fonts/notosans-semibold.df3e6dc4.woff2') format('opentype');
+}
